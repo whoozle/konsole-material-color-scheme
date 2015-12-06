@@ -10,7 +10,7 @@ Settings → Edit Current Profile → Appearance tab → Material
 Thank you for your attention. Have fun. 
 
 # Screenshots
-Comparison of the standard linux colors with material ones
+##Comparison of the standard linux colors with material ones
 Material
 ![Midnight Commander](https://raw.githubusercontent.com/whoozle/konsole-material-color-scheme/master/screenshots/mc.png "Midnight Commander")
 Linux Colors
